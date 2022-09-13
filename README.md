@@ -3,8 +3,8 @@
 This is an NLP-based LA Tool that offers the possibility to automatically:
 
 - read literature from pdf
-- identify key words from text
-- categorize the text based on key words
+- identify keywords from text
+- categorize the text based on keywords
 
 ## Getting Started
 
