@@ -1,6 +1,6 @@
 # 🔍 LAxplore
 
-This Tool offers the possibility to automatically:
+This is an NLP-based LA Tool that offers the possibility to automatically:
 
 - read literature from pdf
 - identify key words from text
